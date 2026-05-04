@@ -1,0 +1,13 @@
+{
+  "name": "roblox-weather-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Roblox weather using Open-Meteo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
